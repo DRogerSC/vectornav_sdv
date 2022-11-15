@@ -1,4 +1,4 @@
-# Vectornav ROS2 Driver
+# Vectornav ROS2 Driver for the VantTec SDV Vehicle
 
 A ROS2 node for VectorNav INS / GNSS devices. 
 
